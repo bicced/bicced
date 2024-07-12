@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Crypto related projects**
 - 👯 I’m looking to collaborate on **Anything interesting**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bicced&show_icons=true&locale=en" alt="bicced" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bicced&show_icons=true&locale=en&layout=compact" alt="bicced" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
