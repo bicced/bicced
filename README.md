@@ -1,10 +1,15 @@
 <h1 align="center">Hello 👋 Have some cake 🍰</h1>
 <h3 align="center">Just another hungry software engineer</h3>
 
-- 🔭 I’m currently working on **Crypto related projects**
-- 👯 I’m looking to collaborate on **Anything interesting**
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bicced&show_icons=true&locale=en&layout=compact" alt="bicced" /></p>
+<div style="display: flex; justify-content: space-between">
+  <div>
+    - 🔭 I’m currently working on **Crypto related projects**
+    - 👯 I’m looking to collaborate on **Anything interesting**
+  </div>
+  <div>
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bicced&show_icons=true&locale=en&layout=compact" alt="bicced" /></p>
+  </div>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
