@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋 Have some cake 🍰</h1>
 <h3 align="center">Just another hungry software engineer</h3>
 
-<div style="display: flex; justify-content: space-between">
+<div style="display: flex; justify-content: space-between; flex-direction: column">
   <div>
     - 🔭 I’m currently working on **Crypto related projects**
     - 👯 I’m looking to collaborate on **Anything interesting**
