@@ -1,6 +1,6 @@
 <h1 align="center">Hello 🍰</h1>
 
-<div style="display: flex; flex-direction: column">
+<div style="display: flex; flex-direction: row">
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bicced&show_icons=true&locale=en&layout=compact" alt="bicced" />
   </div>
