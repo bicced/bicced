@@ -1,3 +1,1 @@
-<h1> I like building fun stuff :) </h1>
-
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXl3YWxxbHNjd2xtcjhzMWZkZzJucGxjN2o0MHM0OTJ2dnV2enA2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z1kpfgtHmpWHS/giphy.gif" /> 
+<img width="969" height="356" alt="Screenshot 2026-03-06 at 1 34 33 PM" src="https://github.com/user-attachments/assets/cd303a02-f23b-4729-8474-a1435a409351" />
